@@ -1,6 +1,6 @@
 ![image](img/main.png)
 
-# ProMan (sprint 1)
+# ProMan
 
 ## Story
 
